@@ -6,8 +6,8 @@
 | --- | --- |
 | Fecha final para asignar proyecto | 06/05/2026 |
 | Fecha final de validación de proyectos | 13/05/2026 |
+| Fecha de exposición de posters | 17/06/2026 12:00-14hrs |
 | Fecha de entrega | 19/06/2026 |
-| Fecha de exposición de posters | 17/06/2026 |
 | | |
 <!-- ::: -->
 
@@ -94,6 +94,24 @@ La responsabilidad sobre el contenido del informe es siempre de los autores: cua
 > *Los autores utilizaron ChatGPT (OpenAI, GPT-4o) para asistir en la redacción y revisión del texto, y GitHub Copilot para completar fragmentos de código repetitivos. Todos los resultados, ecuaciones y conclusiones fueron verificados manualmente por los autores.*
 :::
 
+## Posters
+
+La exposición de posters se realizará el **17/06/2026** durante el horario de clase.
+Cada grupo presentará su trabajo en formato poster, de manera similar a como se hace en congresos y conferencias científicas.
+
+El poster debe incluir:
+
+- **Título y autores**
+- **Introducción y motivación** — el problema abordado y por qué es relevante.
+- **Métodos** — descripción concisa del modelo o técnica utilizada, con ecuaciones clave si corresponde.
+- **Resultados principales** — figuras y/o tablas que ilustren los hallazgos más importantes.
+- **Conclusiones** — síntesis de los resultados y preguntas abiertas.
+
+El poster debe poder leerse de forma autónoma y ser visualmente claro: priorizar figuras y esquemas por sobre texto extenso.
+No hay restricciones de formato o herramienta; pueden usar PowerPoint, LaTeX o cualquier otra.
+
+Durante la exposición, el instructor y los demás estudiantes podrán hacer preguntas sobre el trabajo.
+Seguramente hayan profesores y estudiantes invitados recorriendo los posters.
 
 ## Evaluación
 
