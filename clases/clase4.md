@@ -10,6 +10,11 @@ title: No4 - Métodos numéricos
 
 ## Video de la clase
 
+---
+
+## Video de la clase
+
+:::{iframe} https://www.youtube.com/embed/Rdvz8KRA1JQ 
 :::{iframe} https://www.youtube.com/embed/Rdvz8KRA1JQ 
 :width: 100%
 :::
